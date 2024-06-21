@@ -1,0 +1,25 @@
+<svg width="350" height="237" viewBox="0 0 350 237" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
+<rect x="12" y="32" width="48" height="48" stroke="white" stroke-width="2"/>
+<rect x="60" y="32" width="87" height="48" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="96" height="48" transform="matrix(-1 0 0 1 291 31)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 194 31)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 340 31)" stroke="white" stroke-width="2"/>
+<rect x="12" y="80" width="48" height="48" stroke="white" stroke-width="2"/>
+<rect x="60" y="80" width="87" height="48" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="96" height="48" transform="matrix(-1 0 0 1 291 79)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 194 79)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 340 79)" stroke="white" stroke-width="2"/>
+<rect x="12" y="128" width="48" height="48" stroke="white" stroke-width="2"/>
+<rect x="60" y="128" width="87" height="48" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="96" height="48" transform="matrix(-1 0 0 1 291 127)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 194 127)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 340 127)" stroke="white" stroke-width="2"/>
+<rect x="12" y="176" width="48" height="48" stroke="white" stroke-width="2"/>
+<rect x="60" y="176" width="87" height="48" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="96" height="48" transform="matrix(-1 0 0 1 291 175)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 194 175)" stroke="white" stroke-width="2"/>
+<rect x="-1" y="1" width="48" height="48" transform="matrix(-1 0 0 1 340 175)" stroke="white" stroke-width="2"/>
+</g>
+<path d="M2 236L31.5 165L75 210.5L129 110L202 153.5L267.5 66.5L306.5 92.5L347.5 1" stroke="#E9996B" stroke-width="4"/>
+</svg>
